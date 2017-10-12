@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/medard/.dotnet/store/|arch|/|tfm|",
+      "/home/medard/.nuget/packages"
+    ]
+  }
+}

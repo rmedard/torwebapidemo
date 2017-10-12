@@ -1,0 +1,10 @@
+/home/medard/RiderProjects/TORWebAPIDemo/TORWebAPIDemo/bin/Debug/netcoreapp2.0/TORWebAPIDemo.deps.json
+/home/medard/RiderProjects/TORWebAPIDemo/TORWebAPIDemo/bin/Debug/netcoreapp2.0/TORWebAPIDemo.runtimeconfig.json
+/home/medard/RiderProjects/TORWebAPIDemo/TORWebAPIDemo/bin/Debug/netcoreapp2.0/TORWebAPIDemo.runtimeconfig.dev.json
+/home/medard/RiderProjects/TORWebAPIDemo/TORWebAPIDemo/bin/Debug/netcoreapp2.0/TORWebAPIDemo.dll
+/home/medard/RiderProjects/TORWebAPIDemo/TORWebAPIDemo/bin/Debug/netcoreapp2.0/TORWebAPIDemo.pdb
+/home/medard/RiderProjects/TORWebAPIDemo/TORWebAPIDemo/obj/Debug/netcoreapp2.0/TORWebAPIDemo.csproj.CoreCompileInputs.cache
+/home/medard/RiderProjects/TORWebAPIDemo/TORWebAPIDemo/obj/Debug/netcoreapp2.0/TORWebAPIDemo.AssemblyInfoInputs.cache
+/home/medard/RiderProjects/TORWebAPIDemo/TORWebAPIDemo/obj/Debug/netcoreapp2.0/TORWebAPIDemo.AssemblyInfo.cs
+/home/medard/RiderProjects/TORWebAPIDemo/TORWebAPIDemo/obj/Debug/netcoreapp2.0/TORWebAPIDemo.dll
+/home/medard/RiderProjects/TORWebAPIDemo/TORWebAPIDemo/obj/Debug/netcoreapp2.0/TORWebAPIDemo.pdb
